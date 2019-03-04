@@ -1,1 +1,2 @@
-# cryptography-coursera
+# Programming Assignments for Coursera's Cryptography Course
+
